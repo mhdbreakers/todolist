@@ -1,2 +1,2 @@
 # todolist
-Projet développé en VueJs
+Projet développé en PHP
